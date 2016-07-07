@@ -7,10 +7,18 @@ categories: posts
 
 Here are some links that should be useful
 
+### Misc
+* [Stack Overflow](http://stackoverflow.com/)
+
 ### Android
 * [Libraries](https://github.com/wasabeef/awesome-android-ui)
+* [Parcelabler](http://www.parcelabler.com/)
 * [Setting up environment](https://www.raywenderlich.com/120177/beginning-android-development-tutorial-installing-android-studio)
 * [Your First App](https://developer.android.com/training/index.html)
+
+### Design
+* [Flat Icon](http://www.flaticon.com/)
+* [Flat UI Colors](https://flatuicolors.com/)
 
 ### Git
 * [Git Book](https://git-scm.com/book)
