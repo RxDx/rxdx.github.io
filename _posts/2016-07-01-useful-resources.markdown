@@ -23,6 +23,7 @@ Here are some links that should be useful
 ### Git
 * [Git Book](https://git-scm.com/book)
 * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+* [Git Tips](https://git.wiki.kernel.org/index.php/GitTips)
 
 ### iOS
 * [Apple Official Tutorial](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
