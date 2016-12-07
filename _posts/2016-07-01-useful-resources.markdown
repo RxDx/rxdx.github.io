@@ -14,6 +14,7 @@ Here are some links that should be useful
 * [Libraries](https://github.com/wasabeef/awesome-android-ui)
 * [Parcelabler](http://www.parcelabler.com/)
 * [Setting up environment](https://www.raywenderlich.com/120177/beginning-android-development-tutorial-installing-android-studio)
+* [Vogella Tutorials](http://www.vogella.com/tutorials/android.html)
 * [Your First App](https://developer.android.com/training/index.html)
 
 ### Design
