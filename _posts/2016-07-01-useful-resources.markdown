@@ -30,6 +30,7 @@ Here are some links that should be useful
 * [Apple Official Tutorial](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
 * [Libraries](https://github.com/vsouza/awesome-ios)
 * [Ray Wenderlich Tutorials](https://www.raywenderlich.com/tutorials)
+* [Xcode Tips And Tricks](http://todoremove.com/post/2017-03/xcode-tips-and-tricks/)
 
 ### Ruby on Rails
 * [The Ruby Toolbox](https://www.ruby-toolbox.com/)
