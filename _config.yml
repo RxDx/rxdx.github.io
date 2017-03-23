@@ -6,11 +6,13 @@ copyright_name: Rodrigo Dumont
 description: "Nothing but rxdx website!"
 baseurl: ""
 url: "http://rxdx.com.br"
-twitter_username: rodrigox
-github_username:  rxdx
-facebook_username:  rodrigodumont
-instagram_username: dreadrodz
+
 email_username:  rodrigo@rxdx.com.br
+facebook_username:  rodrigodumont
+github_username:  rxdx
+instagram_username: dreadrodz
+linkedin_username: rodrigo-dumont-233576101
+twitter_username: rodrigox
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
