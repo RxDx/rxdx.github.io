@@ -11,6 +11,7 @@ Here are some links that should be useful
 * [Stack Overflow](http://stackoverflow.com/)
 
 ### Android
+* [Android Studio Plugins](https://github.com/balsikandar/Android-Studio-Plugins)
 * [Libraries](https://github.com/wasabeef/awesome-android-ui)
 * [Parcelabler](http://www.parcelabler.com/)
 * [Setting up environment](https://www.raywenderlich.com/120177/beginning-android-development-tutorial-installing-android-studio)
