@@ -21,6 +21,7 @@ Here are some links that should be useful
 ### Design
 * [Flat Icon](http://www.flaticon.com/)
 * [Flat UI Colors](https://flatuicolors.com/)
+* [Free HTML5 templates](https://html5up.net/)
 
 ### Git
 * [Git Book](https://git-scm.com/book)
