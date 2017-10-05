@@ -30,7 +30,9 @@ Here are some links that should be useful
 
 ### iOS
 * [Apple Official Tutorial](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
+* [Easy XIB and Storyboard Localization](https://medium.com/@mario.negro.martin/easy-xib-and-storyboard-localization-b2794c69c9db)
 * [Libraries](https://github.com/vsouza/awesome-ios)
+* [Modular Xcode projects](http://ppinera.es/2017/09/29/modular-xcode-projects.html)
 * [Ray Wenderlich Tutorials](https://www.raywenderlich.com/tutorials)
 * [Xcode Tips And Tricks](http://todoremove.com/post/2017-03/xcode-tips-and-tricks/)
 
