@@ -19,9 +19,12 @@ Here are some links that should be useful
 * [Your First App](https://developer.android.com/training/index.html)
 
 ### Design
+* [Icon Finder](https://www.iconfinder.com/)
 * [Flat Icon](http://www.flaticon.com/)
 * [Flat UI Colors](https://flatuicolors.com/)
 * [Free HTML5 templates](https://html5up.net/)
+* [Pixabay](https://pixabay.com/)
+* [The Noun Project](https://thenounproject.com/)
 
 ### Git
 * [Git Book](https://git-scm.com/book)
