@@ -32,6 +32,7 @@ Here are some links that should be useful
 * [Git Tips](https://git.wiki.kernel.org/index.php/GitTips)
 
 ### iOS
+* [33 awesome GitHub lists for iOS development](https://medium.com/flawless-app-stories/33-awesome-github-lists-for-ios-development-336691520d0f)
 * [Apple Official Tutorial](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
 * [Easy XIB and Storyboard Localization](https://medium.com/@mario.negro.martin/easy-xib-and-storyboard-localization-b2794c69c9db)
 * [Libraries](https://github.com/vsouza/awesome-ios)
