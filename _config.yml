@@ -15,8 +15,7 @@ linkedin_username: rodrigo-dumont-233576101
 twitter_username: rodrigox
 
 # Google Analytics
-# To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+google_tracking_id: UA-35703334-1
 
 # Build settings
 markdown: kramdown
@@ -26,3 +25,6 @@ paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]
+
+# Google Analytics
+google_analytics: UA-35703334-1

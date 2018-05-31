@@ -19,10 +19,13 @@ Here are some links that should be useful
 * [Your First App](https://developer.android.com/training/index.html)
 
 ### Design
+* [Icon Finder](https://www.iconfinder.com/)
 * [Flat Icon](http://www.flaticon.com/)
 * [Flat UI Colors](https://flatuicolors.com/)
 * [Free Game Art Links](https://ninichimusic.com/blog/17-great-places-to-find-free-game-art)
 * [Free HTML5 templates](https://html5up.net/)
+* [Pixabay](https://pixabay.com/)
+* [The Noun Project](https://thenounproject.com/)
 
 ### Git
 * [Git Book](https://git-scm.com/book)
@@ -30,8 +33,11 @@ Here are some links that should be useful
 * [Git Tips](https://git.wiki.kernel.org/index.php/GitTips)
 
 ### iOS
+* [33 awesome GitHub lists for iOS development](https://medium.com/flawless-app-stories/33-awesome-github-lists-for-ios-development-336691520d0f)
 * [Apple Official Tutorial](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
+* [Easy XIB and Storyboard Localization](https://medium.com/@mario.negro.martin/easy-xib-and-storyboard-localization-b2794c69c9db)
 * [Libraries](https://github.com/vsouza/awesome-ios)
+* [Modular Xcode projects](http://ppinera.es/2017/09/29/modular-xcode-projects.html)
 * [Ray Wenderlich Tutorials](https://www.raywenderlich.com/tutorials)
 * [Xcode Tips And Tricks](http://todoremove.com/post/2017-03/xcode-tips-and-tricks/)
 
