@@ -34,16 +34,18 @@ Here are some links that should be useful
 
 ### iOS
 * [33 awesome GitHub lists for iOS development](https://medium.com/flawless-app-stories/33-awesome-github-lists-for-ios-development-336691520d0f)
-* [Apple Official Tutorial](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
-* [Configuring Multiple Environments](https://kenb.us/best-strategies-for-configuring-multiple-environments-in-xcode-projects)
+* [Apple official tutorial](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
+* [Configuring multiple environments](https://kenb.us/best-strategies-for-configuring-multiple-environments-in-xcode-projects)
 * [Create your own Cocoapods library](https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d5cd270)
 * [Creating a Framework for iOS](https://www.raywenderlich.com/192939/creating-a-framework-for-ios)
-* [Easy XIB and Storyboard Localization](https://medium.com/@mario.negro.martin/easy-xib-and-storyboard-localization-b2794c69c9db)
+* [Easy XIB and storyboard localization](https://medium.com/@mario.negro.martin/easy-xib-and-storyboard-localization-b2794c69c9db)
 * [Libraries](https://github.com/vsouza/awesome-ios)
 * [Modular Xcode projects](http://ppinera.es/2017/09/29/modular-xcode-projects.html)
-* [Ray Wenderlich Tutorials](https://www.raywenderlich.com/tutorials)
-* [Specializing Protocols](https://www.swiftbysundell.com/posts/specializing-protocols-in-swift)
-* [Xcode Tips And Tricks](http://todoremove.com/post/2017-03/xcode-tips-and-tricks/)
+* [Property wrappers](https://www.avanderlee.com/swift/property-wrappers/)
+* [Ray Wenderlich tutorials](https://www.raywenderlich.com/tutorials)
+* [Specializing protocols](https://www.swiftbysundell.com/posts/specializing-protocols-in-swift)
+* [SwiftUI by example](https://www.hackingwithswift.com/quick-start/swiftui)
+* [Xcode tips and tricks](http://todoremove.com/post/2017-03/xcode-tips-and-tricks/)
 
 ### Ruby on Rails
 * [The Ruby Toolbox](https://www.ruby-toolbox.com/)
