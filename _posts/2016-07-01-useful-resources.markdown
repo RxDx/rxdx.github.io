@@ -13,6 +13,7 @@ Here are some links that should be useful
 ### Android
 * [Android Studio Plugins](https://github.com/balsikandar/Android-Studio-Plugins)
 * [Libraries](https://github.com/wasabeef/awesome-android-ui)
+* [Hack an Android app finding forensic artifacts](https://www.raywenderlich.com/3419415-hack-an-android-app-finding-forensic-artifacts)
 * [Parcelabler](http://www.parcelabler.com/)
 * [Setting up environment](https://www.raywenderlich.com/120177/beginning-android-development-tutorial-installing-android-studio)
 * [Vogella Tutorials](http://www.vogella.com/tutorials/android.html)
