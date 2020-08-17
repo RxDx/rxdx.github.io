@@ -47,6 +47,7 @@ Here are some links that should be useful
 * [Modular Xcode projects](http://ppinera.es/2017/09/29/modular-xcode-projects.html)
 * [Property wrappers](https://www.avanderlee.com/swift/property-wrappers/)
 * [Ray Wenderlich tutorials](https://www.raywenderlich.com/tutorials)
+* [Simctl dynamic library code injection](https://curvedlayer.com/2020/08/09/ios-simulator-plugin-simctl.html)
 * [Specializing protocols](https://www.swiftbysundell.com/posts/specializing-protocols-in-swift)
 * [SwiftUI by example](https://www.hackingwithswift.com/quick-start/swiftui)
 * [Xcode tips and tricks](http://todoremove.com/post/2017-03/xcode-tips-and-tricks/)

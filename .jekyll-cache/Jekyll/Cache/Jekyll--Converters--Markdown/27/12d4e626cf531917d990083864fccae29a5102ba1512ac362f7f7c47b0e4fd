@@ -1,0 +1,62 @@
+I"<p>Here are some links that should be useful</p>
+
+<h3 id="misc">Misc</h3>
+<ul>
+  <li><a href="http://stackoverflow.com/">Stack Overflow</a></li>
+</ul>
+
+<h3 id="android">Android</h3>
+<ul>
+  <li><a href="https://github.com/balsikandar/Android-Studio-Plugins">Android Studio Plugins</a></li>
+  <li><a href="https://github.com/wasabeef/awesome-android-ui">Libraries</a></li>
+  <li><a href="https://www.raywenderlich.com/3419415-hack-an-android-app-finding-forensic-artifacts">Hack an Android app finding forensic artifacts</a></li>
+  <li><a href="http://www.parcelabler.com/">Parcelabler</a></li>
+  <li><a href="https://www.raywenderlich.com/120177/beginning-android-development-tutorial-installing-android-studio">Setting up environment</a></li>
+  <li><a href="http://www.vogella.com/tutorials/android.html">Vogella Tutorials</a></li>
+  <li><a href="https://developer.android.com/training/index.html">Your First App</a></li>
+</ul>
+
+<h3 id="design">Design</h3>
+<ul>
+  <li><a href="https://www.iconfinder.com/">Icon Finder</a></li>
+  <li><a href="http://www.flaticon.com/">Flat Icon</a></li>
+  <li><a href="https://flatuicolors.com/">Flat UI Colors</a></li>
+  <li><a href="https://ninichimusic.com/blog/17-great-places-to-find-free-game-art">Free Game Art Links</a></li>
+  <li><a href="https://html5up.net/">Free HTML5 templates</a></li>
+  <li><a href="https://dev.to/ahmed_sulaiman/13-places-to-find-beautiful-free-illustrations-580e">Free Illustrations</a></li>
+  <li><a href="https://nodesign.dev/">No Design Development</a></li>
+  <li><a href="https://pixabay.com/">Pixabay</a></li>
+  <li><a href="https://thenounproject.com/">The Noun Project</a></li>
+</ul>
+
+<h3 id="git">Git</h3>
+<ul>
+  <li><a href="https://git-scm.com/book">Git Book</a></li>
+  <li><a href="https://www.git-tower.com/blog/git-cheat-sheet/">Git Cheat Sheet</a></li>
+  <li><a href="https://git.wiki.kernel.org/index.php/GitTips">Git Tips</a></li>
+</ul>
+
+<h3 id="ios">iOS</h3>
+<ul>
+  <li><a href="https://medium.com/flawless-app-stories/33-awesome-github-lists-for-ios-development-336691520d0f">33 awesome GitHub lists for iOS development</a></li>
+  <li><a href="https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/">Apple official tutorial</a></li>
+  <li><a href="https://matteomanferdini.com/codable/">Codable tutorial</a></li>
+  <li><a href="https://kenb.us/best-strategies-for-configuring-multiple-environments-in-xcode-projects">Configuring multiple environments</a></li>
+  <li><a href="https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d5cd270">Create your own Cocoapods library</a></li>
+  <li><a href="https://www.raywenderlich.com/192939/creating-a-framework-for-ios">Creating a Framework for iOS</a></li>
+  <li><a href="https://medium.com/@mario.negro.martin/easy-xib-and-storyboard-localization-b2794c69c9db">Easy XIB and storyboard localization</a></li>
+  <li><a href="https://github.com/vsouza/awesome-ios">Libraries</a></li>
+  <li><a href="http://ppinera.es/2017/09/29/modular-xcode-projects.html">Modular Xcode projects</a></li>
+  <li><a href="https://www.avanderlee.com/swift/property-wrappers/">Property wrappers</a></li>
+  <li><a href="https://www.raywenderlich.com/tutorials">Ray Wenderlich tutorials</a></li>
+  <li><a href="https://curvedlayer.com/2020/08/09/ios-simulator-plugin-simctl.html">Simctl dynamic library code injection</a></li>
+  <li><a href="https://www.swiftbysundell.com/posts/specializing-protocols-in-swift">Specializing protocols</a></li>
+  <li><a href="https://www.hackingwithswift.com/quick-start/swiftui">SwiftUI by example</a></li>
+  <li><a href="http://todoremove.com/post/2017-03/xcode-tips-and-tricks/">Xcode tips and tricks</a></li>
+</ul>
+
+<h3 id="ruby-on-rails">Ruby on Rails</h3>
+<ul>
+  <li><a href="https://www.ruby-toolbox.com/">The Ruby Toolbox</a></li>
+</ul>
+:ET
